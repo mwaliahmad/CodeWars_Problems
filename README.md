@@ -12,8 +12,9 @@
 ## What is Hacktoberfest?
 Hacktoberfest is a month-long celebration of open source software run by DigitalOcean in partnership with GitHub and Twilio. Hacktoberfest is open to everyone in our global community! Four quality pull requests must be submitted to public GitHub repositories. You can sign up anytime between October 1 and October 31.
 
-## What we have contributed? 
+## What you can contribute? 
 
+you can solve any problem of CODWARS in the following languages and merge this into this repo for beginner students.
 - C
 - C++
 - C#
