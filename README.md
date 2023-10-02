@@ -1,6 +1,6 @@
 # Important
 
-### Kindly View [Contributing.md file](https://github.com/mwaliahmad/CodeWars_Problems/CONTRIBUTING.md) to see the guidelines for hacktoberfest 2023 before contributing to this repository.
+### Kindly View [Contributing.md file](https://github.com/mwaliahmad/CodeWars_Problems/blob/main/CONTRIBUTING.md) to see the guidelines for hacktoberfest 2023 before contributing to this repository.
 
 # Welcome to CyberBlock Community Repository
 # CodeWars_Problems
