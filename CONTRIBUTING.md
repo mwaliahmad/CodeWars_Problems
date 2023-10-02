@@ -7,6 +7,8 @@ It is an initiative undertaken by me for students who are absolute beginneers in
 1. You can contribute in terms of Code
 2. You can contribute in terms of explanation of Problems
 
+## IT IS IMPORTANT THAT YOUR FILE NAME IS SAME AS PROBLEM NAME
+
 ## Following the procedure, you can make your contribution with ease.
 
 ### Step 0
