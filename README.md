@@ -14,7 +14,7 @@ Hacktoberfest is a month-long celebration of open source software run by Digital
 
 ## What you can contribute? 
 
-you can solve any problem of CODWARS in the following languages and merge this into this repo for beginner students.
+you can solve any problem of CODWARS in the following languages and merge this into this repo with the same name of the file of which a problem is.
 - C
 - C++
 - C#
