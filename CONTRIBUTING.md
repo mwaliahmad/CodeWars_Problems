@@ -1,11 +1,11 @@
-# CyberBlock Community
+# CODEWARS Problems Solutions
 
 It is an initiative undertaken by me for students who are absolute beginneers in programming and want to learn it. This repository will contain the possible solutions of problems of CODEWARS in different programming languages so that any newcomer can grasp the topics easily.
 
 # How to contribute
 
 1. You can contribute in terms of Code
-2. You can contribute in terms of improving the Documentation
+2. You can contribute in terms of explanation of Problems
 
 ## Following the procedure, you can make your contribution with ease.
 
